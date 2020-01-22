@@ -22,7 +22,7 @@ img{
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	height: 100vh;
+	height: 120vh;
 }
 button
 {
@@ -48,4 +48,7 @@ button:hover{
 }
 p{
 	font-size: 20px;
+}
+a{
+	color:#ccff74;
 }
